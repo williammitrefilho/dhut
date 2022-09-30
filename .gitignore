@@ -1,0 +1,8 @@
+*.o
+*.exe
+*.bat
+*.bn
+*.txt
+*.php
+*.sql
+!build.bat
